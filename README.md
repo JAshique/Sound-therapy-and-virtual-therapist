@@ -16,5 +16,5 @@ Our project is completely built in Python 3.X and consists of 3 modules.
         3.  Virtual Therapist (Charbot)
 
 1. **Personality Survey:** This survey was heavily inspired from Myers-Briggs test and built in a similar way. The code consists of 25 questions (more to be added/enhanced) which is used to determine the mood of the user. Answers given by the user will be stored in the datbade (TBA). The rest of the appliications functions based on the inputs given by the user.
-2. **Sound/Music Therapy:** Based on the inputs given in the personality survey, a library of audio files which consists of binaural beats/rainfall/resonance sounds are played tpo soothe the user and release their stress.
-3. **Virtual Therapist:** In certain cases where the user mmight need a companion, then the virtual therapist comes into action. This bot will help as a leaning shoulder and listen to the user's problems. It also helps in identiifying the problem and explaining it to the user.
+2. **Sound/Music Therapy:** Based on the inputs given in the personality survey, a library of audio files which consists of binaural beats/rainfall/resonance sounds are played to soothe the user and release their stress.
+3. **Virtual Therapist:** In certain cases where the user might need a companion, then the virtual therapist comes into action. This bot will help as a leaning shoulder and listen to the user's problems. It also helps in identifying the problem and explaining it to the user.
